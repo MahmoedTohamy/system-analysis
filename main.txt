@@ -1,7 +1,4 @@
-print (1)
+print (abdelrahman)
 print (2)
-<<<<<<< Updated upstream
 print (6)
-=======
 print (5)
->>>>>>> Stashed changes
